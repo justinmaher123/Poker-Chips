@@ -45,6 +45,7 @@ This implementation focuses on the betting mechanics of poker (check, call, rais
 
 ## Example Run
 
+```bash
 how many players
 3
 Player 1 name
