@@ -64,6 +64,7 @@ Player 3 budget
 Round 1 (table money: 0)
 Alice's turn (current money: 100)
 check=1 bid=2 fold=3
+```
    
 ---
 
